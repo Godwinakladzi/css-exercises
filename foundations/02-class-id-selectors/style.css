@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#unique1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#unique2 {
+    font-size: 24px;
+}
+
+#unique3 {
+    font-size: 24px;
+    font-style: bold;
+    background-color: lightgreen;
+}
